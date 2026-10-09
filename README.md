@@ -1,1 +1,5 @@
-# Compact-Serial-Communication-Interface
+Abstract :
+
+The Compact Serial Communication Interface Module with Integrated Signal Monitoring Display is a small and low-cost embedded system designed for serial data communication and real-time signal monitoring. The system uses a microcontroller to receive and transmit data through the RX (Receive) and TX (Transmit) pins. A display unit is integrated into the module to show the received data and communication status in real time. The system also includes a suitable power supply to provide stable operation to the components.
+
+The proposed module provides a simple and convenient platform for understanding serial communication, monitoring signals, testing embedded systems, and performing basic debugging. Its compact design, low cost, and easy-to-use interface make it suitable for educational experiments, embedded system development, communication testing, and IoT applications. The project demonstrates how serial communication and real-time monitoring can be combined into a single compact module.
